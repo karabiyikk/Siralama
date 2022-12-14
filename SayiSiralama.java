@@ -1,5 +1,3 @@
-package KosulluIfadeler;
-
 import java.util.Scanner;
 
 //Girilen 3 sayıyı "küçükten büyüğe" sıralayan program.
